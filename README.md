@@ -12,7 +12,7 @@
 
 ## 🌟 Overview
 
-A full-stack AI image generation web app powered by **Pollinations AI**. Just type a prompt, pick a style and aspect ratio, and watch your imagination come to life — completely **free**, no API key required.
+A full-stack AI image generation web app, Where a user Just type a prompt, pick a style and aspect ratio, and watch your imagination come to life — completely **free**, no API key required.
 
 ---
 
