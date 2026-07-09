@@ -1,6 +1,6 @@
 # 🪄 AI Image Generator
 https://ai-image-generator-two-tau.vercel.app/
-**Transform your imagination into stunning visuals with AI**
+**Transform your imagination into stunning visuals with AI Image Generator**
 
 [![MIT License](https://img.shields.io/badge/License-MIT-purple.svg)](https://github.com/gudduKumar548/AI-Image-Generator/blob/main/Backend/LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org)
